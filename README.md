@@ -39,3 +39,16 @@
     <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL Logo" />
   </a>
 </div>
+
+
+### 
+
+I am an aspiring **Biostatistician** passionate about **cancer research and oncology clinical trials**.  
+I love turning **clinical and healthcare data** into meaningful insights using **SAS, R, Python, and SQL**.  
+
+- 🎯 Goal: To contribute to **oncology and healthcare research** with strong statistical programming skills.  
+- 📊 Skills: SAS (Data Analysis, Clinical Trials), R (Statistics & Visualization), Python (Data Analysis & Automation), SQL (Data Management)  
+- 💡 Interests: Biostatistics, Oncology Research, Clinical Trials, Healthcare Analytics  
+
+#### 🔗 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/sumitchoudhary/) | [GitHub](https://github.com/yourusername)
