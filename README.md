@@ -1,49 +1,41 @@
-<h1 align="center">Hey 👋 I'm Sumit Choudhary</h1>
+
+<h1 align="center">👋 Hey, I'm Sumit Choudhary</h1>
 <h3 align="center">
-  Clinical Data Storyteller | Oncology & Biostatistics | M.Sc. Statistics | SAS | Transforming Clinical Trial Data into SDTM, ADaM & TLFs | CDISC • R • SQL • Python
+  Clinical Data Storyteller | Oncology & Biostatistics | M.Sc. Statistics | SAS | R • Python • SQL | Transforming Clinical Trial Data into SDTM, ADaM & TLFs
 </h3>
+
+<!-- ===================== LinkedIn Badge Only ===================== -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/sumit-sas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Choudhary-blue?style=for-the-badge&logo=linkedin" height="28" alt="linkedin" />
+  </a>
+</div>
 
 ###
 
 <div align="center">
   <!-- SAS Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/SAS_logo.svg" height="60" alt="sas logo" />
+  <a href="https://www.sas.com/en_us/home.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/79/SAS_Institute_logo.png" height="60" alt="SAS Logo" />
+  </a>
+  <img width="12" />
+  <!-- SAS Certified Logo -->
+  <a href="https://www.sas.com/en_us/certification.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/3b/SAS_Certified_Logo.png" height="60" alt="SAS Certified Logo" />
+  </a>
   <img width="12" />
   <!-- R Logo -->
-  <img src="https://skillicons.dev/icons?i=r" height="60" alt="r logo" />
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" height="60" alt="R Logo" />
+  </a>
   <img width="12" />
   <!-- Python Logo -->
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python Logo" />
+  </a>
   <img width="12" />
   <!-- SQL Logo -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sumitchoudhary/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://dev.to/sumitchoudhary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&style=for-the-badge" height="25" alt="devto logo" />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL Logo" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sumitchoudhary&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=sumitchoudhary&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitchoudhary/sumitchoudhary/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitchoudhary/sumitchoudhary/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sumitchoudhary/sumitchoudhary/output/pacman-contribution-graph.svg">
-</picture>
